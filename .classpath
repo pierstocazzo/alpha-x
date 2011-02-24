@@ -2,5 +2,26 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jbullet.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jheora-debug-0.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jME3-jogl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jme3testdata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jMonkeyEngine3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/jogl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/launch4j.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/nifty-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/nifty-default-controls-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/nifty-examples-1.2_small.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/nifty-style-black-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/xmlpull-xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/jmonkeyplatform/jmonkeyplatform/libs/xstream.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

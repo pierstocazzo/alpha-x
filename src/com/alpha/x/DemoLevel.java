@@ -1,11 +1,11 @@
-package jme3test.helloworld;
+package com.alpha.x;
  
 import com.jme3.app.SimpleApplication;
 import com.jme3.asset.plugins.ZipLocator;
 import com.jme3.bullet.BulletAppState;
 import com.jme3.bullet.collision.shapes.CapsuleCollisionShape;
 import com.jme3.bullet.collision.shapes.CollisionShape;
-import com.jme3.bullet.collision.shapes.MeshCollisionShape;
+
 import com.jme3.bullet.control.CharacterControl;
 import com.jme3.bullet.control.RigidBodyControl;
 import com.jme3.bullet.util.CollisionShapeFactory;
@@ -16,18 +16,17 @@ import com.jme3.light.AmbientLight;
 import com.jme3.light.DirectionalLight;
 import com.jme3.math.ColorRGBA;
 import com.jme3.math.Vector3f;
-import com.jme3.scene.Geometry;
-import com.jme3.scene.Mesh;
+
 import com.jme3.scene.Node;
 import com.jme3.scene.Spatial;
-import com.jme3.scene.plugins.ogre.MeshLoader;
+
  
 /**
  * Example 9 - How to make walls and floors solid.
  * This version uses Physics and a custom Action Listener.
  * @author normen, with edits by Zathras
  */
-public class HelloCollision extends SimpleApplication
+public class DemoLevel extends SimpleApplication
   implements ActionListener {
  
   private Spatial sceneModel;
@@ -38,7 +37,7 @@ public class HelloCollision extends SimpleApplication
   private boolean left = false, right = false, up = false, down = false;
  
   public static void main(String[] args) {
-    HelloCollision app = new HelloCollision();
+    DemoLevel app = new DemoLevel();
     app.start();
   }
  
