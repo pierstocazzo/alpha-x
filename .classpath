@@ -2,26 +2,26 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="JMELIBS/gluegen-rt.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jbullet.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jheora-debug-0.6.0.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jinput.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jME3-jogl-natives.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jME3-lwjgl-natives.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jme3testdata.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jMonkeyEngine3.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/j-ogg-oggd.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/j-ogg-vorbisd.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/jogl.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/launch4j.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/lwjgl.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/nifty-1.2-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/nifty-default-controls-1.2-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/nifty-examples-1.2_small.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/nifty-style-black-1.2-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/stack-alloc.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/vecmath.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/xmlpull-xpp3-1.1.4c.jar"/>
-	<classpathentry kind="lib" path="JMELIBS/xstream.jar"/>
+	<classpathentry kind="var" path="JMELIBS/gluegen-rt.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jbullet.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jheora-debug-0.6.0.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jinput.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jME3-jogl-natives.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jme3testdata.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jMonkeyEngine3.jar"/>
+	<classpathentry kind="var" path="JMELIBS/j-ogg-oggd.jar"/>
+	<classpathentry kind="var" path="JMELIBS/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="var" path="JMELIBS/jogl.jar"/>
+	<classpathentry kind="var" path="JMELIBS/launch4j.jar"/>
+	<classpathentry kind="var" path="JMELIBS/lwjgl.jar"/>
+	<classpathentry kind="var" path="JMELIBS/nifty-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="var" path="JMELIBS/nifty-default-controls-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="var" path="JMELIBS/nifty-examples-1.2_small.jar"/>
+	<classpathentry kind="var" path="JMELIBS/nifty-style-black-1.2-SNAPSHOT.jar"/>
+	<classpathentry kind="var" path="JMELIBS/stack-alloc.jar"/>
+	<classpathentry kind="var" path="JMELIBS/vecmath.jar"/>
+	<classpathentry kind="var" path="JMELIBS/xmlpull-xpp3-1.1.4c.jar"/>
+	<classpathentry kind="var" path="JMELIBS/xstream.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
