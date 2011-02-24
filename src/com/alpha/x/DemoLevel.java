@@ -59,14 +59,6 @@ public class DemoLevel extends SimpleApplication
  
     // We set up collision detection for the scene by creating a
     // compound collision shape and a static physics node with mass zero.
-    //Node model =  (Node) assetManager.loadModel("Plane.mesh.xml");
-    //Geometry geom = (Geometry) model.getChild(0);
-    //Mesh mesh = geom.getMesh();
-    //System.out.println(mesh.getTriangleCount());
-    //MeshCollisionShape d = new MeshCollisionShape(mesh);
-    //d.equals("");
-  
-
     CollisionShape sceneShape = CollisionShapeFactory.createMeshShape((Node) sceneModel);
     landscape = new RigidBodyControl(sceneShape,0);
     sceneModel.addControl(landscape);
