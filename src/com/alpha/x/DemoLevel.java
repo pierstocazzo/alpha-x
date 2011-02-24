@@ -123,6 +123,7 @@ public class DemoLevel extends SimpleApplication
     } else if (binding.equals("Jumps")) {
       player.jump();
     }
+
   }
  
   /**
